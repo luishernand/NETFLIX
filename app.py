@@ -21,7 +21,7 @@ def load_data():
 st.set_page_config(layout="wide")
 #st.markdown(f'<div style="margin-top: 60px;"></div>', unsafe_allow_html=True)
 
-imagen = Image.open("C:\\Users\\User\\OneDrive\\Documentos\\Cursos de ML\\Data Science 4B\\Netflix\\new logo.png")
+imagen = Image.open("new logo.png")
 st.image(imagen,use_column_width=True)
 #st.title('NETFLIX DASHBOARD')
 
