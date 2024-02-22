@@ -1,7 +1,7 @@
-pandas 
-numpy 
+streamlit
+pandas
+numpy
 matplotlib
 seaborn 
-streamlit 
 datetime
 PIL
