@@ -119,5 +119,10 @@ with tab4:
 	ax = sns.countplot(x = df.dia_semana, hue = df.tipo, palette='pastel', ax = ax)
 	fig
 	
+st.success('''
+	Made by:   
+	`Luis Hernandez`  
+	luishernandezmatos@yahoo.com
+	''')
 	
 
