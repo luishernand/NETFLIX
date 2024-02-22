@@ -14,7 +14,7 @@ st.set_option('deprecation.showPyplotGlobalUse', False)
 #function to read data
 
 def load_data():
-	data = pd.read_csv("C:\\Users\\User\\OneDrive\\Documentos\\Cursos de ML\\Data Science 4B\\Netflix\\NetflixViewingHistory.csv", parse_dates=['Date'])
+	data = pd.read_csv("NetflixViewingHistory.csv", parse_dates=['Date'])
 	return data 
 
 #SETEO DE PAGINA
