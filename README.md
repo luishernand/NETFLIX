@@ -30,7 +30,7 @@ Este proyecto demuestra mis habilidades en la limpieza, análisis y visualizaci�
 
 
     
-> [!NOTE]
+
 > El código fuente se encuentra documentado en los link  para que otros puedan reproducir el flujo de trabajo.
 
 
