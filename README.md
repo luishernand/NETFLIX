@@ -27,8 +27,14 @@ Finalmente, creé una aplicación web con Streamlit que muestra las principales 
 
 Este proyecto demuestra mis habilidades en la limpieza, análisis y visualización de datos usando Python y herramientas de BI. Los dashboards y la aplicación web fueron diseñados pensando en la experiencia de usuario.  
 
+
+
+    
 > [!NOTE]
 > El código fuente se encuentra documentado en los link  para que otros puedan reproducir el flujo de trabajo.
+
+
+  
 
 ### Link de archivos: 
 [<img src="https://github.com/luishernand/NETFLIX/blob/main/imagenes/notebook.png" width="8%">](https://nbviewer.org/github/luishernand/NETFLIX/blob/main/Analisis%20Netflix.ipynb) 
