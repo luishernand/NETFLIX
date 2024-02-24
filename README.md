@@ -38,7 +38,7 @@ Este proyecto demuestra mis habilidades en la limpieza, an√°lisis y visualizaci√
 ![i1](https://github.com/luishernand/NETFLIX/blob/main/imagenes/notebook.png){width=40%}
 
 [pdf]:https://github.com/luishernand/NETFLIX/blob/main/imagenes/Pdf.png
-[note]:https://github.com/luishernand/NETFLIX/blob/main/imagenes/notebook.png
+[note]:<img src="[path/to/image.png](https://github.com/luishernand/NETFLIX/blob/main/imagenes/notebook.png)" width="50%">
 [bi]:https://github.com/luishernand/NETFLIX/blob/main/imagenes/power%20bi.png
 [st]:https://github.com/luishernand/NETFLIX/blob/main/imagenes/streamlit.png
 [tb]:https://github.com/luishernand/NETFLIX/blob/main/imagenes/tableau.png
