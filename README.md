@@ -14,6 +14,7 @@ Este proyecto consiste en un análisis del impacto en cuanto a tiempo y dinero i
 - Power BI
 - Tableau
 
+---  
 
 ### Descripción:
 
