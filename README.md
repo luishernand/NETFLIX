@@ -2,7 +2,7 @@
 
 ## Portafolio de ciencia de datos
 
-Este proyecto consiste en un análisis del tiempo y dinero invertido en ver Series y Películas en la plataforma Netflix. El objetivo es entender los patrones de consumo y preferencias utilizando técnicas de ciencia de datos.
+Este proyecto consiste en un análisis del impacto en cuanto a tiempo y dinero invertido en ver Series y Películas en la plataforma Netflix. El objetivo es entender los patrones de consumo y preferencias utilizando técnicas de ciencia de datos.
 
 ### Tecnologías utilizadas:
 
@@ -25,7 +25,7 @@ Finalmente, creé una aplicación web con Streamlit que muestra las principales 
 
 Este proyecto demuestra mis habilidades en la limpieza, análisis y visualización de datos usando Python y herramientas de BI. Los dashboards y la aplicación web fueron diseñados pensando en la experiencia de usuario. El código fuente se encuentra documentado en los link  para que otros puedan reproducir el flujo de trabajo.  
 
-
+---  
   
 
 ### Link de archivos: 
