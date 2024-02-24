@@ -28,9 +28,17 @@ Finalmente, creé una aplicación web con Streamlit que muestra las principales 
 Este proyecto demuestra mis habilidades en la limpieza, análisis y visualización de datos usando Python y herramientas de BI. Los dashboards y la aplicación web fueron diseñados pensando en la experiencia de usuario. El código fuente se encuentra documentado en el repositorio para que otros puedan reproducir el flujo de trabajo.
 
 ### Link: 
-1. [Notebook](https://nbviewer.org/github/luishernand/NETFLIX/blob/main/Analisis%20Netflix.ipynb)
-1. [Streamlit app](https://netflix-dash.streamlit.app/)
-2. [Tableau](https://public.tableau.com/views/NETFLIX_17085431513030/DASHBOARD?:language=es-S&:sid=&:display_count=n&:origin=viz_share_link)
-3. [PowerBi](https://github.com/luishernand/NETFLIX/blob/main/NETFLIX.pbix)
-4. [PDF](https://github.com/luishernand/NETFLIX/blob/main/NETFLIX.pdf)
+1. [note](https://nbviewer.org/github/luishernand/NETFLIX/blob/main/Analisis%20Netflix.ipynb)
+1. [st](https://netflix-dash.streamlit.app/)
+2. [tb](https://public.tableau.com/views/NETFLIX_17085431513030/DASHBOARD?:language=es-S&:sid=&:display_count=n&:origin=viz_share_link)
+3. [bi](https://github.com/luishernand/NETFLIX/blob/main/NETFLIX.pbix)
+4. [pdf](https://github.com/luishernand/NETFLIX/blob/main/NETFLIX.pdf)
+
+
+[pdf]:https://github.com/luishernand/NETFLIX/blob/main/imagenes/Pdf.png
+[note]:https://github.com/luishernand/NETFLIX/blob/main/imagenes/notebook.png
+[bi]:https://github.com/luishernand/NETFLIX/blob/main/imagenes/power%20bi.png
+[st]:https://github.com/luishernand/NETFLIX/blob/main/imagenes/streamlit.png
+[tb]:https://github.com/luishernand/NETFLIX/blob/main/imagenes/tableau.png
+
    
