@@ -25,13 +25,7 @@ Para la representación visual de los hallazgos, desarrollé dashboards interact
 
 Finalmente, creé una aplicación web con Streamlit que muestra las principales métricas y visualizaciones, permitiendo al usuario interactuar con los resultados del análisis.
 
-Este proyecto demuestra mis habilidades en la limpieza, análisis y visualización de datos usando Python y herramientas de BI. Los dashboards y la aplicación web fueron diseñados pensando en la experiencia de usuario.  
-
-
-
-    
-
-> El código fuente se encuentra documentado en los link  para que otros puedan reproducir el flujo de trabajo.
+Este proyecto demuestra mis habilidades en la limpieza, análisis y visualización de datos usando Python y herramientas de BI. Los dashboards y la aplicación web fueron diseñados pensando en la experiencia de usuario. El código fuente se encuentra documentado en los link  para que otros puedan reproducir el flujo de trabajo.  
 
 
   
@@ -42,6 +36,8 @@ Este proyecto demuestra mis habilidades en la limpieza, análisis y visualizaci�
 [<img src="https://github.com/luishernand/NETFLIX/blob/main/imagenes/streamlit.png" width="8%">](https://netflix-dash.streamlit.app/) 
 [<img src="https://github.com/luishernand/NETFLIX/blob/main/imagenes/tableau.png" width="8%">](https://public.tableau.com/views/NETFLIX_17085431513030/DASHBOARD?:language=es-S&:sid=&:display_count=n&:origin=viz_share_link) 
 [<img src="https://github.com/luishernand/NETFLIX/blob/main/imagenes/Pdf.png" width="8%">](https://github.com/luishernand/NETFLIX/blob/main/NETFLIX.pdf)  
+
+
 
 
 
