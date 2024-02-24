@@ -29,14 +29,14 @@ Este proyecto demuestra mis habilidades en la limpieza, an√°lisis y visualizaci√
 
 ### Link: 
 ![note]
-1. ![note]   (https://nbviewer.org/github/luishernand/NETFLIX/blob/main/Analisis%20Netflix.ipynb)
+1. ![note](https://nbviewer.org/github/luishernand/NETFLIX/blob/main/Analisis%20Netflix.ipynb)
 1. ![st](https://netflix-dash.streamlit.app/)
 2. ![tb](https://public.tableau.com/views/NETFLIX_17085431513030/DASHBOARD?:language=es-S&:sid=&:display_count=n&:origin=viz_share_link)
 3. ![bi](https://github.com/luishernand/NETFLIX/blob/main/NETFLIX.pbix)
 4. ![pdf](https://github.com/luishernand/NETFLIX/blob/main/NETFLIX.pdf)
 
 
-[pdf]:https://github.com/luishernand/NETFLIX/blob/main/imagenes/Pdf.png
+[pdf]:https://github.com/luishernand/NETFLIX/blob/main/imagenes/Pdf.png{width=40%}
 [note]:https://github.com/luishernand/NETFLIX/blob/main/imagenes/notebook.png
 [bi]:https://github.com/luishernand/NETFLIX/blob/main/imagenes/power%20bi.png
 [st]:https://github.com/luishernand/NETFLIX/blob/main/imagenes/streamlit.png
