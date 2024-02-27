@@ -86,7 +86,7 @@ with tab0:
 	st.subheader('Cuales son las 10 Peliculas mas Vistas?')
 	#fig, ax = plt.subplots(figsize = [8,2])
 	#ax = sns.barplot(y = dia_sem, color= 'pink', ax =ax)
-	df[df.tipo =='pelicula'].Titulo.value_counts().head(10).sort_values(ascending =True).plot.barh(cmap = 'Pastel1')
+	df[df.tipo =='pelicula'].nivel1.value_counts().head(10).sort_values(ascending =True).plot.barh(cmap = 'Pastel1')
 	st.pyplot()
 
 
@@ -95,7 +95,7 @@ with tab1:
 	st.subheader('Cuales son las 10 Series mas Vistas?')
 	#fig, ax = plt.subplots(figsize = [8,2])
 	#ax = sns.barplot(y = dia_sem, color= 'pink', ax =ax)
-	df[df.tipo =='serie'].Titulo.value_counts().head(10).sort_values(ascending =True).plot.barh(cmap = 'Pastel1')
+	df[df.tipo =='serie'].nivel1.value_counts().head(10).sort_values(ascending =True).plot.barh(cmap = 'Pastel1')
 	st.pyplot()
 
 
