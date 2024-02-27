@@ -13,8 +13,8 @@ def split_cols(data):
 
 	#diviidr por sus diferentes niveles
 	separacion_cols = data.Title.str.split(':', expand=True)
-	separacion_cols.columns= ['Titulo', 'nivel1','nivel2','nivel3', 'nivel4', 'nivel5']
-	data = pd.concat([data, separacion_cols[['Titulo', 'nivel1','nivel2','nivel3', 'nivel4', 'nivel5']]], axis =1)
+	separacion_cols.columns= [['Title', 'nivel1','nivel2','nivel3']]
+	data = pd.concat([data, separacion_cols[['nivel1','nivel2','nivel3']]], axis =1)
 
 	return data
 
