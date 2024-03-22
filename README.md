@@ -2,8 +2,9 @@
 
 ## Portafolio de ciencia de datos
 
-Este proyecto consiste en un análisis del impacto en cuanto a tiempo y dinero invertido en ver Series y Películas en la plataforma Netflix.  
-**Obejetivo**  
+Este proyecto consiste en un análisis del impacto en cuanto a tiempo y dinero invertido en ver Series y Películas en la plataforma Netflix.   
+
+**Objetivo**  
 El de entender los patrones de consumo y preferencias utilizando técnicas de ciencia de datos.
 
 ### Tecnologías utilizadas:
