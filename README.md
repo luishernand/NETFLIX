@@ -39,6 +39,10 @@ Este proyecto demuestra mis habilidades en la limpieza, an√°lisis y visualizaci√
 [<img src="https://github.com/luishernand/NETFLIX/blob/main/imagenes/tableau.png" width="8%">](https://public.tableau.com/views/NETFLIX_17085431513030/DASHBOARD?:language=es-S&:sid=&:display_count=n&:origin=viz_share_link) 
 [<img src="https://github.com/luishernand/NETFLIX/blob/main/imagenes/Pdf.png" width="8%">](https://github.com/luishernand/NETFLIX/blob/main/NETFLIX.pdf)  
 
+## Carpeta de Proyectos    
+- Aqui encontraras todos mis proyectos de forma organizada  con sus respectivos archivos.  
+[carpeta de proyectos](https://github.com/luishernand/repositorios)
+
 
 
 
